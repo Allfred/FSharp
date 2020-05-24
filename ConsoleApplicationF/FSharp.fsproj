@@ -8,12 +8,12 @@
     <ProjectGuid>adf59657-19da-4692-9f79-254f68129dab</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ConsoleApplicationF</RootNamespace>
-    <AssemblyName>ConsoleApplicationF</AssemblyName>
+    <AssemblyName>FSharp</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <UseStandardResourceNames>true</UseStandardResourceNames>
     <WarningsAsErrors>3239;$(WarningsAsErrors)</WarningsAsErrors>
-    <Name>ConsoleApplicationF</Name>
+    <Name>FSharp</Name>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>
