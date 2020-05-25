@@ -69,6 +69,7 @@
     <None Include="LazySeq.fsx" />
     <None Include="memoize.fsx" />
     <None Include="TheContinuation.fsx" />
+    <None Include="Records.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Cntk.Core.Managed-2.7">
