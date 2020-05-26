@@ -70,6 +70,7 @@
     <None Include="memoize.fsx" />
     <None Include="TheContinuation.fsx" />
     <None Include="Records.fsx" />
+    <None Include="InterfaceMember.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Cntk.Core.Managed-2.7">

@@ -32,7 +32,6 @@ let squaer1 c x=
          member this.Draw(): unit = 
              printf "Square @(%f,%f), r=%f" c.x c.y x
     }
-
 [<EntryPoint>]
 let main argv =
     //Моделирование объектной  ориентированности через записи и замыкания    
