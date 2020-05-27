@@ -56,6 +56,7 @@
     <None Include="MandelField.fsx" />
     <None Include="MandelFieldWinForm.fsx" />
     <None Include="List.fsx" />
+    <Compile Include="CustomQueue.fs" />
     <Compile Include="Program.fs" />
     <None Include="Fold.fsx" />
     <None Include="ListsGener.fsx" />
@@ -72,6 +73,7 @@
     <None Include="Records.fsx" />
     <None Include="InterfaceMember.fsx" />
     <None Include="inheritance.fsx" />
+    
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Cntk.Core.Managed-2.7">
