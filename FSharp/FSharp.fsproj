@@ -71,6 +71,7 @@
     <None Include="TheContinuation.fsx" />
     <None Include="Records.fsx" />
     <None Include="InterfaceMember.fsx" />
+    <None Include="inheritance.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Cntk.Core.Managed-2.7">
